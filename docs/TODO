@@ -1,0 +1,7 @@
+[ ] Escrever README
+[ ] Repassar ideia
+
+> Pensei em separar o projeto em 3 modulos:
+    - dashboard (recebe objetos tratados e apresenta para o usuário)
+    - tratamento inteligene (que recebe e trata os dados do edisciplinas (IA aqui))
+    - playright (que acessa o edisciplinas)
